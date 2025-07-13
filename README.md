@@ -78,13 +78,13 @@ Revenue Goal = [Total Revenue PY] * 1.10
 ## 📂 Files Included
 
 **# Power BI interactive dashboard**   
--- 📄 Trail_Works_Sales_Dashboard.pbix
+- 📄 Trail_Works_Sales_Dashboard.pbix
 
 **# Cleaned and processed dataset**  
--- 📄 Trail_Works_Sales_Data.csv
+- 📄 Trail_Works_Sales_Data.csv
 
 **# Project documentation (this file)**  
--- 📄 README.md 
+- 📄 README.md 
 
 
 ---
