@@ -1,4 +1,4 @@
-# 🚲 Trail_Works Executive Sales Performance Dashboard (2016–2018)
+# 🚲 Trail Works Executive Sales Performance Dashboard (2016–2018)
 
 ![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Trail_Works_Executive_Sales_Dashboard_2016-2018/blob/main/Dashboard_preview.png) 
 
