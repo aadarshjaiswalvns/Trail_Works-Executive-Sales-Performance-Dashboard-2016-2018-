@@ -2,13 +2,13 @@
 
 ![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Trail_Works_Executive_Sales_Dashboard_2016-2018/blob/main/Dashboard_preview.png) 
 
-A Power BI dashboard project designed to uncover strategic insights from **Trail-Works’ sales data (2016–2018)**. This project analyzes sales performance by **product**, **region**, **store**, and **salesperson** to help leadership identify revenue drivers, performance gaps, and growth opportunities.
+A Power BI dashboard project designed to uncover strategic insights from **Trail Works sales data (2016–2018)**. This project analyzes sales performance by **product**, **region**, **store**, and **salesperson** to help leadership identify revenue drivers, performance gaps, and opportunities for growth.
 
 ---
 
 ## 📌 Project Overview
 
-In collaboration with the Sales Strategy Manager, I conducted an in-depth analysis of Trail-Works' sales and store performance over a 3-year period. The core objectives included:
+In collaboration with the Sales Strategy Manager, I conducted an in-depth analysis of Trail-Works' sales and store performance over three years. The core objectives included:
 
 - Identifying **top-performing product categories**, states, cities, and sales reps  
 - Evaluating **customer traffic**, **order volume**, and **store performance**  
