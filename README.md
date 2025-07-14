@@ -98,11 +98,5 @@ Revenue Goal = [Total Revenue PY] * 1.10
 
 ---
 
-## 📌 Status
-
-✅ **Project Completed** — ready for use in case studies, presentations, and data analytics portfolios.
-
----
-
 > ⭐ If you found this dashboard helpful, please star the repository and share your thoughts!
 
