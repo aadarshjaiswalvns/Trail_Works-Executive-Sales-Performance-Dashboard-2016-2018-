@@ -8,7 +8,7 @@ A Power BI dashboard project designed to uncover strategic insights from **Trail
 
 ## 📌 Project Overview
 
-In collaboration with the Sales Strategy Manager, I conducted an in-depth analysis of Trail-Works' sales and store performance over three years. The core objectives included:
+I conducted an in-depth analysis of Trail-Works' sales and store performance over three years. The core objectives included:
 
 - Identifying **top-performing product categories**, states, cities, and sales reps  
 - Evaluating **customer traffic**, **order volume**, and **store performance**  
